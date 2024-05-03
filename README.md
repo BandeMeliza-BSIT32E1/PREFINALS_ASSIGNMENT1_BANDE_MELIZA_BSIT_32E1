@@ -1,4 +1,5 @@
-# PREFINALS_ASSIGNMENT1_BANDE_MELIZA_BSIT_32E1
+Self-Assessment: Onion Architecture, MVC, and Web API (.NET Core) with Bottlenecks (Encountered)
+Conceptual Understanding:
 
 1. Onion Architecture: (Yes/No) 
  
