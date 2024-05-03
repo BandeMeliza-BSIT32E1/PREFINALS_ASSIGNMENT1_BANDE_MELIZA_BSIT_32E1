@@ -31,9 +31,9 @@ MVC:
 1. Components: (1-3 keywords each)
 Briefly describe the roles of the Model, View, and Controller in the MVC pattern.
  
-Model: Represents the data and business logic of the application.
-View: Presents the user interface, displaying data from the Model and sending user input to the Controller.
-Controller: Receives input from the View, interacts with the Model to process data, and updates the View accordingly.
+- Model: Represents the data and business logic of the application.
+- View: Presents the user interface, displaying data from the Model and sending user input to the Controller.
+- Controller: Receives input from the View, interacts with the Model to process data, and updates the View accordingly.
  
 2. Bottlenecks (Encountered): (Yes/No and Briefly Explain) 
 Have you encountered any challenges with tight coupling between Model and Controller in MVC projects? If so, briefly describe the issue(s). (e.g., Difficulty in unit testing controllers, logic changes rippling through the application)
